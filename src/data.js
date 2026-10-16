@@ -7,7 +7,7 @@ export const companyInfo = {
   phone: "+918108260262",
   phoneRaw: "8108260262",
   email: "shribalajicons2021@gmail.com",
-  whatsappUrl: "https://wa.me/8108260262",
+  whatsappUrl: "https://wa.me/918108260262",
   googleMapUrl: "https://www.google.com/maps/dir//Shri+Balaji+Consultancy,+Mahatma+Gandhi+Rd,+Tilak+Nagar,+Goregaon+East,+Mumbai,+Maharashtra+400104/@19.0815074,72.8783527,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3be7b7c8be3289e1:0x1d16c65267e3048f!2m2!1d72.8407873!2d19.1630285?hl=en-IN&entry=ttu",
   googleSiteUrl: "https://share.google/BGWqANDZoFUgE0EXM",
   socials: {
