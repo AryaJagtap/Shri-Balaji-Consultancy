@@ -36,7 +36,7 @@ export default function Home({ setActivePage, onOpenLightbox }) {
             gap: '0.65rem',
             background: 'rgba(212, 163, 75, 0.18)',
             border: '1px solid var(--gold)',
-            color: 'var(--gold-light)',
+            color: '#ffa600',
             padding: '0.45rem 1.4rem',
             borderRadius: 'var(--radius-full)',
             fontSize: '0.85rem',
@@ -62,22 +62,22 @@ export default function Home({ setActivePage, onOpenLightbox }) {
           </h1>
 
           <p style={{
-            fontSize: 'clamp(1.1rem, 2.2vw, 1.4rem)',
-            color: 'var(--gold-light)',
-            fontWeight: 500,
+            fontSize: 'clamp(1.5rem, 2.5vw, 1.5rem)',
+            color: '#ffa600',
+            fontWeight: 575,
             marginBottom: '1rem',
-            fontFamily: 'var(--font-heading)',
+            fontFamily: 'serif',
             fontStyle: 'italic'
           }}>
             {companyInfo.tagline}
           </p>
 
           <p style={{
-            fontSize: '0.95rem',
-            color: 'rgba(255, 255, 255, 0.85)',
+            fontSize: '1.00rem',
+            color: 'rgb(255, 255, 255)',
             letterSpacing: '0.08em',
             textTransform: 'uppercase',
-            fontWeight: 600,
+            fontWeight: 800,
             marginBottom: '2.5rem'
           }}>
             {companyInfo.servicesSummary}
@@ -104,34 +104,34 @@ export default function Home({ setActivePage, onOpenLightbox }) {
             borderTop: '1px solid rgba(255, 255, 255, 0.15)'
           }}>
             <div>
-              <div style={{ fontFamily: 'var(--font-heading)', fontSize: '2rem', fontWeight: 700, color: 'var(--gold)' }}>
+              <div style={{ fontFamily: 'var(--font-heading)', fontSize: '2rem', fontWeight: 700, color: '#ffa600' }}>
                 Since 2021
               </div>
-              <div style={{ fontSize: '0.8rem', color: 'rgba(255, 255, 255, 0.75)', textTransform: 'uppercase', letterSpacing: '0.06em' }}>
+              <div style={{ fontSize: '0.9rem', color: 'rgb(255, 255, 255)', textTransform: 'uppercase', letterSpacing: '0.06em', fontWeight: 900 }}>
                 Industry Experience
               </div>
             </div>
             <div>
-              <div style={{ fontFamily: 'var(--font-heading)', fontSize: '2rem', fontWeight: 700, color: 'var(--gold)' }}>
+              <div style={{ fontFamily: 'var(--font-heading)', fontSize: '2rem', fontWeight: 700, color: '#ffa600' }}>
                 RERA
               </div>
-              <div style={{ fontSize: '0.8rem', color: 'rgba(255, 255, 255, 0.75)', textTransform: 'uppercase', letterSpacing: '0.06em' }}>
+              <div style={{ fontSize: '0.9rem', color: 'rgb(255, 255, 255)', textTransform: 'uppercase', letterSpacing: '0.06em', fontWeight: 900 }}>
                 Exam Certified
               </div>
             </div>
             <div>
-              <div style={{ fontFamily: 'var(--font-heading)', fontSize: '2rem', fontWeight: 700, color: 'var(--gold)' }}>
+              <div style={{ fontFamily: 'var(--font-heading)', fontSize: '2rem', fontWeight: 700, color: '#ffa600' }}>
                 20+
               </div>
-              <div style={{ fontSize: '0.8rem', color: 'rgba(255, 255, 255, 0.75)', textTransform: 'uppercase', letterSpacing: '0.06em' }}>
+              <div style={{ fontSize: '0.9rem', color: 'rgb(255, 255, 255)', textTransform: 'uppercase', letterSpacing: '0.06em', fontWeight: 900 }}>
                 Developer Partners
               </div>
             </div>
             <div>
-              <div style={{ fontFamily: 'var(--font-heading)', fontSize: '2rem', fontWeight: 700, color: 'var(--gold)' }}>
+              <div style={{ fontFamily: 'var(--font-heading)', fontSize: '2rem', fontWeight: 700, color: '#ffa600' }}>
                 Mumbai
               </div>
-              <div style={{ fontSize: '0.8rem', color: 'rgba(255, 255, 255, 0.75)', textTransform: 'uppercase', letterSpacing: '0.06em' }}>
+              <div style={{ fontSize: '0.9rem', color: 'rgb(255, 255, 255)', textTransform: 'uppercase', letterSpacing: '0.06em', fontWeight: 900 }}>
                 Prime Locations
               </div>
             </div>

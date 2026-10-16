@@ -258,7 +258,7 @@ export default function Navbar({ activePage, setActivePage, isDark, toggleTheme 
             style={{ width: '100%', marginTop: '0.5rem', justifyContent: 'center' }}
           >
             <PhoneCall size={18} />
-            <span>Call Now (+91 81082 60262)</span>
+            <span>Call Now (+91 8108260262)</span>
           </a>
 
           <a 
