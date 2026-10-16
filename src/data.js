@@ -4,7 +4,7 @@ export const companyInfo = {
   servicesSummary: "BUYING • SELLING • RENTING OF RESIDENTIAL & COMMERCIAL PROPERTIES",
   reraNo: "A51800029215",
   address: "Mahatma Gandhi Rd, Tilak Nagar, Goregaon West, Mumbai, Maharashtra 400104",
-  phone: "+91 8108260262",
+  phone: "+918108260262",
   phoneRaw: "8108260262",
   email: "shribalajicons2021@gmail.com",
   whatsappUrl: "https://wa.me/8108260262",

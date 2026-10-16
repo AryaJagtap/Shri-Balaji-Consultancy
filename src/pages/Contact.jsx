@@ -26,7 +26,7 @@ export default function Contact() {
 🏢 *Service:* ${formData.service}
 📝 *Requirement:* ${formData.message}`;
 
-    const waUrl = `https://wa.me/918108260262?text=${encodeURIComponent(textMsg)}`;
+    const waUrl = `https://wa.me/8108260262?text=${encodeURIComponent(textMsg)}`;
     
     // Immediately open WhatsApp chat with pre-filled message
     window.open(waUrl, '_blank');
