@@ -20,7 +20,7 @@ export default function Home({ setActivePage, onOpenLightbox }) {
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
-        backgroundImage: `linear-gradient(rgba(11, 15, 23, 0.40), rgba(11, 15, 23, 0.52)), url('/background images/city-sunset.jpg')`,
+        backgroundImage: `linear-gradient(rgba(11, 15, 23, 0.40), rgba(11, 15, 23, 0.52)), url('/background images/img4.png')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
